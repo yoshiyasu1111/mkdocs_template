@@ -1,6 +1,6 @@
 {
     "name": "mkdocs",
-    "dockerComposeFile": "docker-compose.yml",
+    "dockerComposeFile": "compose.yaml",
     "service": "mkdocs",
     "workspaceFolder": "/docs",
     "remoteUser": "mkuser"
